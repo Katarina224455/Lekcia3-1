@@ -1,5 +1,5 @@
 ako nalozit s uhorkami
 otvori
-int a=1+2+3
+int a=1+2+3+6
 hruby obsah napichnut na vidlicku
 zjest
